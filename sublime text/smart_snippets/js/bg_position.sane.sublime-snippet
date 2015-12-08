@@ -1,0 +1,18 @@
+<snippet><description>Lorizzle</description><tabTrigger>jsbgpos</tabTrigger><scope>source.js</scope><content>
+<![CDATA[\$('.prev').hover(
+        function(){
+            \$(this).stop().animate({'backgroundPosition':'right center'},300,'easeOutExpo');
+        },
+        function(){
+            \$(this).stop().animate({'backgroundPosition':'left center'},400,'easeOutCubic');
+        }
+    );
+    \$('.next').hover(
+        function(){
+            \$(this).stop().animate({'backgroundPosition':'left center'},300,'easeOutExpo');
+        },
+        function(){
+            \$(this).stop().animate({'backgroundPosition':'right center'},400,'easeOutCubic');
+        }
+    );  ]]>
+</content></snippet>

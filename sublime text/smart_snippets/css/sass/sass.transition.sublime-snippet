@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include transition(all 0.3s ease);]]></content>
+    <tabTrigger>strans</tabTrigger>
+	<scope>source.css</scope>
+    <description>sass.transition</description>
+</snippet>

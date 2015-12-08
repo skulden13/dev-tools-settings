@@ -1,0 +1,2 @@
+<snippet><description>favicon</description><tabTrigger>favi</tabTrigger><scope>text.html</scope><content><![CDATA[<link href='images/favicon.ico' type='image/x-icon' rel='icon'/>
+<link href='images/favicon.ico' type='image/x-icon' rel='shortcut icon'/>]]></content></snippet>

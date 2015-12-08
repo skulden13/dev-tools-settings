@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[.transition-delay(0.1s);]]></content>
+    <tabTrigger>ltransd</tabTrigger>
+	<scope>source.css</scope>
+    <description>less.transition-delay</description>
+</snippet>

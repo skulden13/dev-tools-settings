@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[@media (min-width: 1200px) {
+	$0
+}
+@media (min-width: 768px) and (max-width: 979px) {
+
+}
+@media (max-width: 767px) {
+
+}
+@media (max-width: 480px) {
+	
+}
+]]></content>
+    <tabTrigger>mediaq</tabTrigger>
+	<scope>source.css</scope>
+    <description>media queries</description>
+</snippet>

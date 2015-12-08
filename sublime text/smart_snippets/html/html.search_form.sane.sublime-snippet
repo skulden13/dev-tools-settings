@@ -1,0 +1,5 @@
+<snippet><description>search form</description><tabTrigger>search</tabTrigger><scope>text.html</scope><content><![CDATA[<!--search form-->
+<form id="search" class="search" action="search.php" method="GET" accept-charset="utf-8">
+    <input type="text" onfocus="if(this.value =='' ) this.value=''" onblur="if(this.value=='') this.value=''" value="" name="s"/>
+    <a href="#" onClick="document.getElementById('search').submit()" class="btn btn-link">Search</a>
+</form>]]></content></snippet>

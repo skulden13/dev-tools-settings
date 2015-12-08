@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[.box-sizing(border-box);]]></content>
+    <tabTrigger>lbrb</tabTrigger>
+	<scope>source.css</scope>
+    <description>less.box-sizing</description>
+</snippet>

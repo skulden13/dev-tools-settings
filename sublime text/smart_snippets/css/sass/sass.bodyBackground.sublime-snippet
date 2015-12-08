@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@body-bg]]></content>
+    <tabTrigger>sbodybg</tabTrigger>
+	<scope>source.css</scope>
+    <description>sass.bodyBackground</description>
+</snippet>

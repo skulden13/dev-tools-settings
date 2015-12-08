@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[#gradient > .vertical(#fff, #000);]]></content>
+    <tabTrigger>lgrad</tabTrigger>
+	<scope>source.css</scope>
+    <description>less.gradient</description>
+</snippet>

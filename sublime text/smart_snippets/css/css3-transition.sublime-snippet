@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[-webkit-transition: all 0.4s ease-out;
+-moz-transition: all 0.4s ease-out;
+-o-transition: all 0.4s ease-out;
+-ms-transition: all 0.4s ease-out;    
+transition: all 0.4s ease-out;]]></content>
+    <tabTrigger>trans</tabTrigger>
+	<scope>source.css</scope>
+    <description>css3-transition</description>
+</snippet>

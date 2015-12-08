@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include transition-delay(0.1s);]]></content>
+    <tabTrigger>stransd</tabTrigger>
+	<scope>source.css</scope>
+    <description>sass.transition-delay</description>
+</snippet>

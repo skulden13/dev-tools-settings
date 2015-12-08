@@ -1,0 +1,3 @@
+<snippet><description>gfont</description><tabTrigger>gfont</tabTrigger><scope>text.html</scope><content>
+<![CDATA[<link href='http://fonts.googleapis.com/css?family=$1' rel='stylesheet'/>]]>
+</content></snippet>

@@ -1,0 +1,1 @@
+<snippet><description>mail off comment</description><tabTrigger>mailoff</tabTrigger><scope>text.html</scope><content><![CDATA[<!--email_off-->$0<!--/email_off-->]]></content></snippet>

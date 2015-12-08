@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include box-sizing(border-box);]]></content>
+    <tabTrigger>sbrb</tabTrigger>
+	<scope>source.css</scope>
+    <description>sass.box-sizing</description>
+</snippet>

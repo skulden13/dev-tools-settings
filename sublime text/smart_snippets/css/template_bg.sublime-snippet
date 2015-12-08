@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[background: url(../../../__/1.jpg) center no-repeat;]]></content>
+    <tabTrigger>bgbg</tabTrigger>
+	<scope>source.css</scope>
+    <description>template_bg</description>
+</snippet>

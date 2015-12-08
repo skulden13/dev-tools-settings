@@ -1,0 +1,23 @@
+<snippet><description>cycle plugin init</description><tabTrigger>cycleinit</tabTrigger><scope>source.js</scope><content>
+<![CDATA[if (\$(".slider").length) {
+    \$('.slider').cycle({
+        fx: 'scrollHorz',
+        speed: 700,
+		timeout: 0,
+        next: '.next',
+		prev: '.prev',                
+		easing: 'easeInOutCubic',
+		cleartypeNoBg: true ,
+        rev:0,
+        startingSlide: 0,
+        wrap: true,
+        pager: \$('.pagination>li>a'),
+            pagerAnchorBuilder: function(ind){return \$('.pagination>li:eq('+ind+') a');},
+            onPagerEvent: function(zeroBasedSlideIndex, slideElement){
+                \$('.pagination>li').removeClass('active')
+                    .eq(\$(slideElement).index()).addClass('active')
+            }
+	})
+};
+]]>
+</content></snippet>

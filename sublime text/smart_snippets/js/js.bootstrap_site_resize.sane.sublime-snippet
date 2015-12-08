@@ -1,0 +1,7 @@
+<snippet><description>js bootstrap site resize</description><tabTrigger>jsbstresize</tabTrigger><scope>source.js</scope><content>
+<![CDATA[\$(window).resize(function (){
+    var topV = \$('header').outerHeight(true) + \$('#wrapper>section').outerHeight(true) + \$('footer').outerHeight(true); 
+    topV = (windowH() - topV)*0.5;
+    \$('#wrapper>section').css('marginTop',topV)
+})]]>
+</content></snippet>

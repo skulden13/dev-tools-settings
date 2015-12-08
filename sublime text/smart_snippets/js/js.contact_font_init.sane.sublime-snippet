@@ -1,0 +1,5 @@
+<snippet><description>contact font init</description><tabTrigger>cforminit</tabTrigger><scope>source.js</scope><content>
+<![CDATA[\$('#form1').forms({
+	ownerEmail:'#'
+})]]>
+</content></snippet>

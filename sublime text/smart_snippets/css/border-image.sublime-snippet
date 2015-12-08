@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[-moz-border-image: url(images/) 1 round round;
+-webkit-border-image: url(images/) 1 round round; 
+-o-border-image: url(images/) 1 round round;
+border-image: url(images/) 1 round round;	
+]]></content>
+    <tabTrigger>borderim</tabTrigger>
+	<scope>source.css</scope>
+    <description>border-image</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@bodyBackground]]></content>
+    <tabTrigger>lbodybg</tabTrigger>
+	<scope>source.css</scope>
+    <description>less.bodyBackground</description>
+</snippet>

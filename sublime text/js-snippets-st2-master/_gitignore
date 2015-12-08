@@ -1,0 +1,9 @@
+#gitignore
+*.gitignore
+
+# project files
+*.sublime-project
+*.sublime-workspace
+
+# maxymiser files
+js-mmcore/*

@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[<div class="camera_wrap" id="camera_1">
+    <div data-src="img/page1_slide1.png">                            
+        <div class="camera_caption fadeFromLeft">
+            <div class="row">
+                <div class="span5">
+                    <p></p>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>]]></content>
+    <tabTrigger>camera</tabTrigger>
+	<scope>text.html</scope>
+    <description>camera</description>
+</snippet>

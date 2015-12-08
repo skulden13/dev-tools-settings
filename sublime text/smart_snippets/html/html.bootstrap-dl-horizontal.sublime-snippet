@@ -1,0 +1,10 @@
+<snippet><description>dl-horizontal</description><tabTrigger>dlhor</tabTrigger><scope>text.html</scope><content>
+<![CDATA[<dl class="dl-horizontal">
+    <dt>$0</dt>
+    <dd></dd>
+    <dt></dt>
+    <dd></dd>
+    <dt></dt>
+    <dd></dd>
+</dl>]]>
+</content></snippet>

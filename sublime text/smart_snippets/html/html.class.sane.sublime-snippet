@@ -1,0 +1,3 @@
+<snippet><description>class</description><tabTrigger>cl</tabTrigger><scope>text.html</scope><content>
+<![CDATA[class="$0"]]>
+</content></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[text-shadow: #000 0px 0px 1px;]]></content>
+    <tabTrigger>textsh</tabTrigger>
+	<scope>source.css</scope>
+    <description>text-shadow</description>
+</snippet>

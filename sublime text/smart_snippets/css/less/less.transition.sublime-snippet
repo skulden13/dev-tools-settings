@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[.transition(all 0.4s ease-out);]]></content>
+    <tabTrigger>ltrans</tabTrigger>
+	<scope>source.css</scope>
+    <description>less.transition</description>
+</snippet>

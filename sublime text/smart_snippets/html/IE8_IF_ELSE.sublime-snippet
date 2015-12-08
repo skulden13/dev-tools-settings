@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<!--[if IE 8]><style>$0</style><![endif]-->]]></content>
+    <tabTrigger>ifie8</tabTrigger>
+	<scope>text.html</scope>
+    <description>IE8_IF_ELSE</description>
+</snippet>

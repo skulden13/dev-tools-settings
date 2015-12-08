@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+font: @baseFontSize @baseFontFamily;
+line-height: @baseLineHeight;
+color: @black;
+	]]>
+	</content>
+    <tabTrigger>bstfont</tabTrigger>
+	<scope>source.css</scope>
+    <description>bst.bstfont</description>
+</snippet>

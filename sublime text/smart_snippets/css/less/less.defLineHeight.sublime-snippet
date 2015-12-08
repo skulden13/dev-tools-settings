@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@defLineHeight]]></content>
+    <tabTrigger>ldeflh</tabTrigger>
+	<scope>source.css</scope>
+    <description>less.defLineHeight</description>
+</snippet>

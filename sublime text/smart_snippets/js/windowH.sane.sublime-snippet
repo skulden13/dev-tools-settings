@@ -1,0 +1,5 @@
+<snippet><description>windowH()</description><tabTrigger>wh</tabTrigger><scope>source.js</scope><content>
+<![CDATA[function windowH() {
+	return ((\$(window).height()>=parseInt(\$('body').css('minHeight')))?\$(window).height():parseInt(\$('body').css('minHeight')));
+}]]>
+</content></snippet>

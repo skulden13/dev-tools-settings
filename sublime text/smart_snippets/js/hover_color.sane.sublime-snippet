@@ -1,0 +1,11 @@
+<snippet><description>hover color</description><tabTrigger>hovercol</tabTrigger><scope>source.js</scope><content>
+<![CDATA[var val1 = \$('.readMore').css('color');
+\$('.readMore').hover(
+    function(){
+    	\$(this).stop().animate({'color':'#fff'},300,'easeOutExpo');  
+    },
+    function(){
+        \$(this).stop().animate({'color':val1},600,'easeOutCubic');  
+    }
+); ]]>
+</content></snippet>
