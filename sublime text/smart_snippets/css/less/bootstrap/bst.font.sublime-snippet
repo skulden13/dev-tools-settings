@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-font: @baseFontSize @baseFontFamily;
-line-height: @baseLineHeight;
+font: @font-size-base @font-family-base;
+line-height: @line-height-base;
 color: @black;
 	]]>
 	</content>

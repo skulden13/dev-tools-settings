@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[@include size(100%,100%);]]></content>
+	<content><![CDATA[@include size($1,);]]></content>
     <tabTrigger>ssize</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.scss</scope>
     <description>sass.size</description>
 </snippet>

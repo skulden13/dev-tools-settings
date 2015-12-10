@@ -6,6 +6,6 @@ color: $text-color;
 	]]>
 	</content>
     <tabTrigger>sbstfont</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.scss</scope>
     <description>sass bst.bstfont</description>
 </snippet>

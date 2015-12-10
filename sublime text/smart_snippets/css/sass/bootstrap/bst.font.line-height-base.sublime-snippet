@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[$line-height-base]]></content>
+    <tabTrigger>sdeflh</tabTrigger>
+	<scope>source.scss</scope>
+    <description>sass.defLineHeight</description>
+</snippet>

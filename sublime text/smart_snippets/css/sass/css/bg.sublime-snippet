@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[background: url(../img/) 0 no-repeat;]]></content>
+    <tabTrigger>bg</tabTrigger>
+	<scope>source.scss</scope>
+    <description>bg</description>
+</snippet>

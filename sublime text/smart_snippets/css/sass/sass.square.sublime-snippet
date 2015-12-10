@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[@include square(100%);]]></content>
+	<content><![CDATA[@include square($1);]]></content>
     <tabTrigger>ssq</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.scss</scope>
     <description>sass.square</description>
 </snippet>

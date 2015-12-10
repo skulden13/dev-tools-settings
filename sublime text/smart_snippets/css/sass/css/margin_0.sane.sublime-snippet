@@ -1,0 +1,1 @@
+<snippet><description>margin 0px</description><tabTrigger>mar0</tabTrigger><scope>source.scss</scope><content><![CDATA[margin: 0px 0px 0px 0px;]]></content></snippet>

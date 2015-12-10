@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[#gradient > .vertical(#fff, #000);]]></content>
     <tabTrigger>sgrad</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.scss</scope>
     <description>sass.gradient</description>
 </snippet>
