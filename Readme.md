@@ -1,4 +1,4 @@
-=== My settings for developer tools
+### My settings for developer tools
 
 This is my settings for developer tools:
 
